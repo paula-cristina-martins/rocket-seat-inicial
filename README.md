@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto para Iniciante - Móveis Customizados </h1>
+<h1 align="center"> Projetos de Landing Page </h1>
 
 <p align="center">
 Programa baseado pelo curso Explorer aplicado pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -20,9 +20,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Móveis Customizados é uma _landing page_ para estudo básico do css.
+Os projetos desenvolvidos são uma _landing page_ para estudo básico do css.
 
-- [Acesse o escopo do projeto pelo figma, clique aqui.](<https://www.figma.com/file/vSMecthrqKN7gHmdUd8iZm/Explorer---Projeto-01-(Copy)?type=design&node-id=1-2&mode=design&t=T2qbbbtvyEA3W2N7-0>)
+- [Projeto 01 - Figma, clique aqui.](<https://www.figma.com/file/vSMecthrqKN7gHmdUd8iZm/Explorer---Projeto-01-(Copy)?type=design&node-id=1-2&mode=design&t=T2qbbbtvyEA3W2N7-0>)
+- [Projeto 02 - Figma, clique aqui.](https://www.figma.com/file/Cy6YpvSkd3YCnkxIi5j9EH/Projeto01-Extra-Copy?fuid=1008417835364072614)
 
 ---
 
