@@ -22,8 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Os projetos desenvolvidos são uma _landing page_ para estudo básico do css.
 
-- [Projeto 01 - Figma, clique aqui.](<https://www.figma.com/file/vSMecthrqKN7gHmdUd8iZm/Explorer---Projeto-01-(Copy)?type=design&node-id=1-2&mode=design&t=T2qbbbtvyEA3W2N7-0>)
-- [Projeto 02 - Figma, clique aqui.](https://www.figma.com/file/Cy6YpvSkd3YCnkxIi5j9EH/Projeto01-Extra-Copy?fuid=1008417835364072614)
+- [Projeto Base - Figma, clique aqui.](<https://www.figma.com/file/vSMecthrqKN7gHmdUd8iZm/Explorer---Projeto-01-(Copy)?type=design&node-id=1-2&mode=design&t=T2qbbbtvyEA3W2N7-0>)
+- [Projeto Intermediário 01 - Figma, clique aqui.](https://www.figma.com/file/Cy6YpvSkd3YCnkxIi5j9EH/Projeto01-Extra-Copy?fuid=1008417835364072614)
+- [Projeto Intermediário 02 - Figma, clique aqui.](https://www.figma.com/file/GW9HzNFCVdsZ2tn9yHsutd/Explorer-Projeto-02-Copy?fuid=1008417835364072614)
 
 ---
 
