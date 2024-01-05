@@ -55,6 +55,6 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "cSpell.language": "en,pt,pt_BR",
-  "cSpell.words": ["Beecrowd", "linkedin", "Rocketseat"],
+  "cSpell.words": ["Beecrowd", "linkedin", "Rocketseat", "rocketsect"],
   "liveServer.settings.port": 5501
 }
