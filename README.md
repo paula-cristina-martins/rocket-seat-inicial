@@ -26,6 +26,7 @@ Os projetos desenvolvidos são uma _landing page_ para estudo básico do css.
 - [Projeto Intermediário 01 - Figma, clique aqui.](https://www.figma.com/file/Cy6YpvSkd3YCnkxIi5j9EH/Projeto01-Extra-Copy?fuid=1008417835364072614)
 - [Projeto Intermediário 02 - Figma, clique aqui.](https://www.figma.com/file/GW9HzNFCVdsZ2tn9yHsutd/Explorer-Projeto-02-Copy?fuid=1008417835364072614)
 - [Projeto Avançado 01 - Figma, clique aqui.](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate)
+- [Projeto 3 - Figma, clique aqui.](<https://www.figma.com/file/owp4a2B6qluikrQlRuSwY3/Explorer-Stage-03-Projeto-01-(Copy)?type=design&mode=design>)
 
 ---
 
