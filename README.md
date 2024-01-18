@@ -28,7 +28,8 @@ Os projetos desenvolvidos são uma _landing page_ para estudo básico do css.
 - [Projeto Avançado 01 - Figma, clique aqui.](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate)
 - [Projeto 3 - Figma, clique aqui.](<https://www.figma.com/file/owp4a2B6qluikrQlRuSwY3/Explorer-Stage-03-Projeto-01-(Copy)?type=design&mode=design>)
 - [Formulários - Intermediário - Figma, clique aqui.](<https://www.figma.com/file/tOi43JzHzNRpc70e9R0Ps9/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0-1&mode=design&t=k3J9Kksi7nxTm4jr-0>)
-- [Formulários - Avançado - Figma, clique aqui.](<https://www.figma.com/file/xIhk2kAWlKmP1OPsfhmL3p/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?type=design&node-id=0-1&mode=design>)
+- [Formulários - Avançado - Figma, clique aqui.](<https://www.figma.com/file/xIhk2kAWlKmP1OPsfhmL3p/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?type=design&node-id=0-1&mode=design>>)
+- [Projeto 3 - Responsividade - Figma, clique aqui.](<https://www.figma.com/file/yWyYSyFtMf6Hq3p0MK981y/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=5xcWH0KdquXgPWrZ-0>)
 
 ---
 
