@@ -30,7 +30,8 @@ Os projetos desenvolvidos são uma _landing page_ para estudo básico do css.
 - [Formulários - Intermediário - Figma, clique aqui.](<https://www.figma.com/file/tOi43JzHzNRpc70e9R0Ps9/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0-1&mode=design&t=k3J9Kksi7nxTm4jr-0>)
 - [Formulários - Avançado - Figma, clique aqui.](<https://www.figma.com/file/xIhk2kAWlKmP1OPsfhmL3p/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?type=design&node-id=0-1&mode=design>)
 - [Projeto 3 - Responsividade - Figma, clique aqui.](<https://www.figma.com/file/yWyYSyFtMf6Hq3p0MK981y/Explorer-Stage-03-Projeto-02-(Copy)?type=design&node-id=203-412&mode=design&t=5xcWH0KdquXgPWrZ-0>)
-- [CheeseCake - Figma, clique aqui](https://www.figma.com/community/file/1256354643188696521/cheesecake-projeto-explorer)
+- [CheeseCake - Figma, clique aqui](<https://www.figma.com/file/ILm8TKu0VD69e4lsgoKChF/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=113-93&mode=design&t=P84FwxkzHOXFCaqe-0>)
+- [Galaxies - Figma, clique aqui](<https://www.figma.com/file/BYeKu0AycBsxXvVzIvAsMl/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?type=design&mode=design>)
 
 ---
 
