@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+  --color-base-gray-100: #f9f4fb;
+  --color-base-pink-600: #b52184;
+  --color-base-purple-500: #312d64;
+}
+
+html,
+body,
+input {
+  font-family: "Mulish", sans-serif;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: var(--color-base-gray-100);
+  color: var(--color-base-purple-500);
+}
+
+header {
+  padding: 0 3.6rem 0 3.6rem;
+}
+
+header .banner {
+  width: 36rem;
+  height: 36rem;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin: 1.8rem 0;
+  font-weight: 900;
+  font-size: 3.2rem;
+  color: var(--color-base-pink-600);
+}
+
+header p {
+  font-weight: 600;
+  font-size: 1.8rem;
+}
+
+header .seta {
+  width: 12rem;
+  height: 8rem;
+  margin: 3.6rem 0 8rem;
+}
+
+main .gallery {
+  background-color: var(--color-base-purple-500);
+  padding: 1rem 3.6rem 6.4rem 3.6rem;
+}
+
+main .gallery .item {
+  background-color: var(--color-base-gray-100);
+  padding: 2.8rem;
+  margin-top: 5.2rem;
+  border-radius: 1rem;
+}
+
+main .gallery .item .details h2 {
+  font-size: 2.8rem;
+  font-weight: 900;
+  margin: 2.8rem 0 0.8rem 0;
+  color: var(--color-base-pink-600);
+}
+
+main .gallery .item .details p {
+  font-weight: 600;
+}
+
+main form {
+  padding: 7.2rem 3.6rem;
+}
+
+main form h1 {
+  font-size: 3.2rem;
+  font-weight: 900;
+  color: var(--color-base-pink-600);
+  margin-bottom: 4.8rem;
+}
+
+main form .input-wrapper label {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+
+main form .input-wrapper {
+  display: flex;
+}
+
+main form .input-wrapper img {
+  position: absolute;
+  z-index: 1;
+  padding: 1.6rem 0 1.6rem 1.4rem;
+}
+
+main form .input-wrapper input,
+textarea {
+  width: 100%;
+  border: 0;
+  border: 2px solid var(--color-base-purple-500);
+  border-radius: 1.5rem;
+  font-weight: 600;
+  font-family: "Mulish", sans-serif;
+  color: var(--color-base-purple-500);
+  font-size: 1.6rem;
+  opacity: 0.7;
+  margin-bottom: 2.4rem;
+}
+
+main form .input-wrapper input {
+  padding: 1.6rem 0 1.6rem 4.8rem;
+}
+
+main form .input-wrapper textarea {
+  height: 16rem;
+  padding: 1.6rem;
+}
+
+main form .button {
+  font-family: "Mulish", sans-serif;
+  background-color: var(--color-base-purple-500);
+  color: var(--color-base-gray-100);
+  font-size: 1.4rem;
+  font-weight: 600;
+  padding: 1.2rem 1.6rem;
+  border: 0;
+  border-radius: 1.5rem;
+}
+
+main form .button:hover {
+  background-color: #3530e7;
+  cursor: pointer;
+}
+
+.fundo {
+  display: none;
+}
+
+footer {
+  background-color: var(--color-base-purple-500);
+  color: var(--color-base-gray-100);
+  text-align: center;
+  font-weight: 400;
+  padding: 3.2rem 0;
+}
+
+@media (min-width: 1240px) {
+  header {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    direction: rtl;
+    gap: 0px 160px;
+  }
+
+  header h1 {
+    padding: 12rem 0 0 0;
+    font-weight: 900;
+    font-size: 4.4rem;
+  }
+
+  header p {
+    font-weight: 600;
+    font-size: 2.8rem;
+  }
+
+  header .banner {
+    width: 56rem;
+    height: 56rem;
+  }
+
+  header .seta {
+    width: 10rem;
+    height: 10rem;
+    margin: 16rem 0;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0px 60px;
+  }
+
+  form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .fundo {
+    display: flex;
+    position: absolute;
+    right: 0;
+    margin-top: -6.5rem;
+  }
+}
